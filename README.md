@@ -1,1 +1,1 @@
-# mcqgen
+# MCQ Generator using OpenAI
